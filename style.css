@@ -1,0 +1,17 @@
+h1{
+               
+    text-align: center;
+ }
+/* *{
+     border:solid;
+ }*/
+ .A{
+    background-color: indianred;
+    display: flex;
+   flex-direction: column;
+ }
+ .projects{
+     display: flex;
+    gap: 30px;
+     flex-direction: row;
+ }
